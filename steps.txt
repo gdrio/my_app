@@ -1,0 +1,4 @@
+1. Layout and Component types
+2. Planning the state
+3. creact react app
+4. npm run eject in order to use css modules and enables css classes 
